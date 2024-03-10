@@ -3,12 +3,10 @@
 /***************************************************************************
  SortLayers
                                  A QGIS plugin
- Sorts layers in Layers Panel alphabetically
+ Description
                              -------------------
-        begin                : 2017-03-21
-        copyright            : (C) 2017 by Mikhail Minin
-        email                : m.minin@jacobs-university.de
-        git sha              : $Format:%H$
+        copyright            : (C) 2024 by mminin
+        email                : mminin2010@gmail.com
  ***************************************************************************/
 
 /***************************************************************************

@@ -18,4 +18,4 @@ There are two buttons: one will sort layers alphabetically from A to Z.
 
 Another will sort from Z to A.
 
-This should work with QGIS 2.4 and up.
+This should work with QGIS 3.0 and up.
